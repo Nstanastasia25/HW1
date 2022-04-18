@@ -1,0 +1,15 @@
+D:\Настя\программ\HW1\example\ex003\bin\Debug\net6.0\ex003.exe
+D:\Настя\программ\HW1\example\ex003\bin\Debug\net6.0\ex003.deps.json
+D:\Настя\программ\HW1\example\ex003\bin\Debug\net6.0\ex003.runtimeconfig.json
+D:\Настя\программ\HW1\example\ex003\bin\Debug\net6.0\ex003.dll
+D:\Настя\программ\HW1\example\ex003\bin\Debug\net6.0\ex003.pdb
+D:\Настя\программ\HW1\example\ex003\obj\Debug\net6.0\ex003.csproj.AssemblyReference.cache
+D:\Настя\программ\HW1\example\ex003\obj\Debug\net6.0\ex003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Настя\программ\HW1\example\ex003\obj\Debug\net6.0\ex003.AssemblyInfoInputs.cache
+D:\Настя\программ\HW1\example\ex003\obj\Debug\net6.0\ex003.AssemblyInfo.cs
+D:\Настя\программ\HW1\example\ex003\obj\Debug\net6.0\ex003.csproj.CoreCompileInputs.cache
+D:\Настя\программ\HW1\example\ex003\obj\Debug\net6.0\ex003.dll
+D:\Настя\программ\HW1\example\ex003\obj\Debug\net6.0\refint\ex003.dll
+D:\Настя\программ\HW1\example\ex003\obj\Debug\net6.0\ex003.pdb
+D:\Настя\программ\HW1\example\ex003\obj\Debug\net6.0\ex003.genruntimeconfig.cache
+D:\Настя\программ\HW1\example\ex003\obj\Debug\net6.0\ref\ex003.dll
