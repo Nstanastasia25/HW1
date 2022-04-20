@@ -1,12 +1,9 @@
 ﻿//  Напишите программу, которая на вход принимает одно число (N), а на выходе показывает все целые числа в промежутке от -N до N.
- Console.Write("Введите N");
+ Console.Write("Введите N ");
 double  N = Convert.ToDouble(Console.ReadLine());
-double [] massiv = {-N,N} ;
-if (-N > massiv > N) 
+double A = -N + 1 ;
+while (A>-N || A<N) 
 {
-    Console.WriteLine (massiv);
+    Console.WriteLine (A);
 }
-else 
-{
-massiv = massiv + 1 ;
-}
+A = A + 1 ;
